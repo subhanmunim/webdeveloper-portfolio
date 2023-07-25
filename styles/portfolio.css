@@ -90,7 +90,7 @@ nav a {
 }
 
 .banner-title {
-    font-size: 85px;
+    font-size: 65px;
     font-weight: 700;
     margin-top: 5px;
     margin-bottom: 20px;
@@ -227,6 +227,11 @@ footer {
 
 .social-links a {
     margin-right: 25px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
 }
 
 .contact input[type="text"],
